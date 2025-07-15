@@ -1,4 +1,4 @@
-<h1 align="center">Copy Link Text</h1>
+<h1 align="center">Copy Link Text - Chrome Extension</h1>
 
 
 <p align="center">
