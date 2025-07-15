@@ -1,9 +1,10 @@
+# Copy Link Text - Chrome Extension
+
 <p align="center">
   <img src="icon.png" alt="Copy Link Text Icon" width="120">
 </p>
 
 
-# Copy Link Text - Chrome Extension
 
 ## 🔒 Privacy Policy
 
