@@ -1,4 +1,5 @@
-# Copy Link Text - Chrome Extension
+<h1 align="center">Copy Link Text</h1>
+
 
 <p align="center">
   <img src="icon.png" alt="Copy Link Text Icon" width="120">
