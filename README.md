@@ -1,4 +1,5 @@
-![Copy Link Text](icon.png)
+<img src="icon.png" alt="Copy Link Text Icon" width="150">
+
 # Copy Link Text - Chrome Extension
 
 ## 🔒 Privacy Policy
