@@ -60,4 +60,4 @@ For support, feedback, or privacy-related inquiries:
 
 ---
 
-© 2025 [Your Name or Team]. All rights reserved.
+© 2025 All rights reserved.
